@@ -1,3 +1,2 @@
 # test2
-shitto shitto
-popo
+Hei jeg bruker Windows 10 og notepad++ er best
